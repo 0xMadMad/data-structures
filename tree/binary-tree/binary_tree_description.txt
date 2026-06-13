@@ -1,9 +1,9 @@
 # binary tree :
 
 ## structure :
-1️⃣ a data
-2️⃣ pointer to left-child
-3️⃣ pointer to right-child
+1. a data
+2. pointer to left-child
+3. pointer to right-child
 
 ## number of different binary trees with 'n' nodes :
 for binary tree 't' with root 'r' :

@@ -1,24 +1,24 @@
 # heap
 
 ## max heap
-1️⃣ root-value >= sub-value
-2️⃣ root has biggest value
+1. root-value >= sub-value
+2. root has biggest value
 
 ### insert at max heap
-1️⃣ insert at last place of array
-2️⃣ compare that with each root-value
-2️⃣1️⃣ if it's bigger than the root value -> replace it with root
+1. insert at last place of array
+2. compare that with each root-value
+2-1. if it's bigger than the root value -> replace it with root
 
 ### remove from max heap
-1️⃣ root is removed
-2️⃣ it compares with it's biggest sub
-2️⃣1️⃣ if it's smaller than it's biggest sub -> replace them
+1. root is removed
+2. it compares with it's biggest sub
+2-1. if it's smaller than it's biggest sub -> replace them
 
-🔴 heap is only way to implement the priority-queue
+* heap is only way to implement the priority-queue
 
 ------------------------------------
 ## min heap
-1️⃣ root-value <= sub-value
-2️⃣ root has lowest value
+1. root-value <= sub-value
+2. root has lowest value
 
-🔴 it's inverse of max-heap
+* it's inverse of max-heap
