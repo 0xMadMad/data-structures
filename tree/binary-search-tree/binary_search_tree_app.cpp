@@ -13,7 +13,7 @@ int main()
     
     std::cout<<"Binary Search Tree\nPRE :\n";
     BinPreOrderDisplay(bst);
-    std::cout<<"\nIN :\n";
+    std::cout<<"\nIN (sorted) :\n";
     BinInOrderDisplay(bst);
     std::cout<<"\nPOST :\n";
     BinPostOrderDisplay(bst);
