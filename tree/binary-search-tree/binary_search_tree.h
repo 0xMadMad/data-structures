@@ -1,4 +1,4 @@
-#include "../binary_tree.h"
+#include "../binary-tree/binary_tree.h"
 
 BinTree *BSTInsert(BinTree *(&root), double key)
 {

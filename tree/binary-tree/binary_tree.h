@@ -72,6 +72,7 @@ void BinTruthDisplay(BinTree *root)
     if(root == nullptr)
         return;
     
+    // NEEDS TO BE WRITTEN
 }
 
 unsigned NodeCounter = 0;
@@ -105,5 +106,6 @@ unsigned NumOfLeafs(BinTree *root)
     // return (NumOfLeafs(root->left) + NumOfLeafs(root->right));
 }
 
+// +SOME OTHERS..
 
-//MadMad_109
+//MadMad_111
